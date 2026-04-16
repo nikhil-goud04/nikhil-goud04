@@ -5,8 +5,8 @@
 ### Full-Stack Java Developer · Cloud-Native · Microservices Engineer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nikhil-goud04.github.io-00d4ff?style=for-the-badge&logo=firefox&logoColor=white)](https://nikhil-goud04.github.io/portfolio)
-[![Email](https://img.shields.io/badge/Email-nikhil-goud0404@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhil-goud0404@gmail.com)
-[![Location](https://img.shields.io/badge/📍_Santa_Clara,_CA-Open_to_Relocation-7c3aed?style=for-the-badge)](mailto:nikhil-goud0404@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nikhil--goud04.github.io-00d4ff?style=for-the-badge&logo=firefox&logoColor=white)](https://nikhil-goud04.github.io/portfolio)
+[![Email](https://img.shields.io/badge/Email-nikhilgoud0404%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilgoud0404@gmail.com)
 
 </div>
 
