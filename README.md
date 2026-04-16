@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-nikhil-goud04.github.io-00d4ff?style=for-the-badge&logo=firefox&logoColor=white)](https://nikhil-goud04.github.io/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-goud04)
 [![Email](https://img.shields.io/badge/Email-nikhil-goud0404@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhil-goud0404@gmail.com)
-[![Location](https://img.shields.io/badge/📍_Kansas_City,_MO-Open_to_Relocation-7c3aed?style=for-the-badge)](mailto:nikhil-goud0404@gmail.com)
+[![Location](https://img.shields.io/badge/📍_Santa_Clara,_CA-Open_to_Relocation-7c3aed?style=for-the-badge)](mailto:nikhil-goud0404@gmail.com)
 
 </div>
 
